@@ -8,7 +8,7 @@ This folder contains weekly Advanced Java assessments completed as part of the c
 - JDBC
 - Hibernate ORM and Entity Mappings
 
-🚀 Current Module:
+   Current Module:
 - Spring Boot (Recently Started)
 
 📌 Assessment Details:
@@ -20,3 +20,4 @@ Assessment-2 – CRM Case Study
 Implemented using JPA Persistence with structured entity configuration and relational mapping.
 
 This repository will be updated regularly as new Spring Boot and advanced backend assessments are completed.
+
