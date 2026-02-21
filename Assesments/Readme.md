@@ -1,7 +1,27 @@
-This folder contains weekly assessment projects completed as part of the Advanced Java learning journey. Each assessment focuses on applying core Java concepts, OOP principles, database integration, and real-world problem-solving skills.
+📁 Assessments
 
-Assessment 1 – Hotel Management: Implementation of a hotel management system covering core Java concepts and structured project organization.
+This folder contains weekly Advanced Java assessments completed as part of the course progression.
 
-Assessment 2 – CRM Case Study: Customer relationship management case study focusing on business logic and structured application design.
+ Modules Completed:
 
-New assessments will be added weekly to track continuous learning and practical implementation.
+Core Java Fundamentals
+
+JUnit Testing
+
+JDBC
+
+Hibernate ORM and Entity Mappings
+
+ Current Module:
+
+Spring Boot (recently started)
+
+ Assessment Details:
+
+Assessment-1 – Hotel Management:
+Developed using Hibernate ORM with proper entity relationship mappings and database integration.
+
+Assessment-2 – CRM Case Study:
+Implemented using JPA persistence with structured entity configuration and relational mapping.
+
+This repository will be updated regularly as new Spring Boot and advanced backend assessments are completed.
