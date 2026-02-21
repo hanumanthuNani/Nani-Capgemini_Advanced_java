@@ -2,26 +2,21 @@
 
 This folder contains weekly Advanced Java assessments completed as part of the course progression.
 
- Modules Completed:
+✅ Modules Completed:
+- Core Java Fundamentals
+- JUnit Testing
+- JDBC
+- Hibernate ORM and Entity Mappings
 
-Core Java Fundamentals
+🚀 Current Module:
+- Spring Boot (Recently Started)
 
-JUnit Testing
+📌 Assessment Details:
 
-JDBC
-
-Hibernate ORM and Entity Mappings
-
- Current Module:
-
-Spring Boot (recently started)
-
- Assessment Details:
-
-Assessment-1 – Hotel Management:
+Assessment-1 – Hotel Management
 Developed using Hibernate ORM with proper entity relationship mappings and database integration.
 
-Assessment-2 – CRM Case Study:
-Implemented using JPA persistence with structured entity configuration and relational mapping.
+Assessment-2 – CRM Case Study
+Implemented using JPA Persistence with structured entity configuration and relational mapping.
 
 This repository will be updated regularly as new Spring Boot and advanced backend assessments are completed.
